@@ -1,9 +1,8 @@
 /**
-* Template Name: Restaurantly
-* Template URL: https://bootstrapmade.com/restaurantly-restaurant-template/
-* Updated: Aug 07 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+* Template Name: Spoon Restaurant
+* Template URL: https://github.com/123qassim/spoon_restaurant-
+* Updated: 16 Nov 2024 with Group_4
+* Author: Group_4
 */
 
 (function() {
